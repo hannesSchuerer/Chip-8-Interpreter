@@ -2,7 +2,7 @@
 
 #define NO_ROM_INSERTED 1
 
-const int PIXEL_SIZE = 35;
+const int PIXEL_SIZE = 20;
 const int CHIP_WIDTH = 64;
 const int CHIP_HEIGHT = 32;
 
