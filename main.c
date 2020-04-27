@@ -35,7 +35,7 @@ int main(int argc, char **argv)
 	Chip *chip = (Chip*)malloc(sizeof(Chip));
 	chipInitialize(chip);
 	
-	loadProgramInMemory(chip, "./Roms/WIPEOFF");
+	loadProgramInMemory(chip, argv[argc-1]);
 	
     if(!init(&window, &renderer, SCREEN_WIDTH, SCREEN_HEIGHT))
     {
