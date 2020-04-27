@@ -23,3 +23,23 @@ So if you want to run any Roms you need to download them by yourself.
 1. Cd to your project folder in the CMD and run the command mingw32-make. This should build the program.
 1. Now you can drag your Rom files at the .exe and the Interpreter should start up.
 
+## Controls
+
+The Chip-8 uses a hex keyboard for its user input.
+The problem is that the original keyboard don't match with modern ones, so i mapped the keys appropriate to new keyboards (QWERTZ).
+If you want to know what controls a specific game has, you should find it in the internet.
+
+### Original keyboard mapping
+
+1 | 2 | 3 | C
+4 | 5 | 6 | D
+7 | 8 | 9 | E
+A | 0 | B | F
+
+### Modern keyboard mapping
+
+1 | 2 | 3 | 4
+Q | W | R | T
+A | S | D | F
+Y | X | C | V
+
