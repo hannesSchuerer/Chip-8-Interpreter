@@ -31,6 +31,8 @@ If you want to know what controls a specific game has, you should find it in the
 
 ### Original keyboard mapping
 
+  |   |   |
+--|---|---|---
 1 | 2 | 3 | C
 4 | 5 | 6 | D
 7 | 8 | 9 | E
@@ -38,6 +40,8 @@ A | 0 | B | F
 
 ### Modern keyboard mapping
 
+  |   |   |
+--|---|---|---
 1 | 2 | 3 | 4
 Q | W | R | T
 A | S | D | F
